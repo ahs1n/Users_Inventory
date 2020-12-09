@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CardView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CreditCardView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleAppwithDatabase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin-first-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payments_card_animation" vcs="Git" />
+  </component>
+</project>
